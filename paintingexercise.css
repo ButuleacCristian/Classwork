@@ -1,6 +1,6 @@
 p:hover {
 
-color:green;
+color:yellow;
 
 font-weight: bold;
 
@@ -8,9 +8,9 @@ font-weight: bold;
 
 p::before {
 
-content: 'Hello ';
+content: 'Fortnite ';
 
-color: red;
+color: yellow;
 
 font-weight: bold;
 
@@ -18,9 +18,9 @@ font-weight: bold;
 
 p::after {
 
-content: Bye!';
+content: Battlepass!';
 
-color: red;
+color: blue;
 
 font-weight: bold;
 
@@ -28,7 +28,7 @@ font-weight: bold;
 
 p::selection {
 
-background-color: purple;
+background-color: pink;
 
 color: white;
 }
